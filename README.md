@@ -20,7 +20,7 @@
 
 <h3 align="center"> CONTACT </h3>
 <p align="center">
-<a href="https://www.instagram.com/imzzok_/" target="_blank"><img src="https://img.shields.io/badge/imzzok_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.instagram.com/zzokko__0707/" target="_blank"><img src="https://img.shields.io/badge/zzokko__0707-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:kji8518@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kji8518@gamil.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://www.instagram.com/imzzok_/" target="_blank"><img src="https://img.shields.io/badge/imzzok__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.instagram.com/zzokko__0707/" target="_blank"><img src="https://img.shields.io/badge/zzokko____0707-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:kji8518@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kji8518@gamil.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 </a>
 
