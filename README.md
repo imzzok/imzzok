@@ -3,9 +3,10 @@
 <h3 align="center"> 차근차근 배움의 계단을 밟아나가는 <br>
 프론트엔드 개발자 임서정입니다. </h3> <br>
 
+
 <div style="display:flex; flex-direction:row;">
     <div style="margin-bottom:6px;"><b>resume</b></div>
-    <a href="[https://www.notion.so/PROGRAMMER-SEOJEONG-d625f25c4483440f927789cd1948baaf?pvs=4]">
+    <a href="https://www.notion.so/PROGRAMMER-SEOJEONG-d625f25c4483440f927789cd1948baaf?pvs=4">
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
 
 <h3 align="center"> TECH STACK </h3>
