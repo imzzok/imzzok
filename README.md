@@ -15,11 +15,6 @@
 </p>
 
 <br> 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzzok&langs_count=8)](https://github.com/imzzok/github-readme-stats)
-
-<br> 
   
 ![imzzok's GitHub stats](https://github-readme-stats.vercel.app/api?username=imzzok&show_icons=true&theme=radical)
 
