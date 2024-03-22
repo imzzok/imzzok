@@ -14,10 +14,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> 
 </p>
 
-<br> 
-  
-![imzzok's GitHub stats](https://github-readme-stats.vercel.app/api?username=imzzok&show_icons=true&theme=radical)
-
+<br>
 
 <h3 align="center"> CONTACT </h3>
 <p align="center">
